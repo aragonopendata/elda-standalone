@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/elda-lda-1.2.26.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jena-arq-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jena-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jena-iri-0.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jena-tdb-0.10.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jersey-core-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jersey-json-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jersey-server-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jersey-servlet-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jetty-6.1.16.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/jetty-util-6.1.16.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/urlrewrite-3.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/home/emorenomillan/Escritorio/standalonelib/xmlunit-1.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
