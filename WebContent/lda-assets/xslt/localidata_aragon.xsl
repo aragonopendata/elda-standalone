@@ -360,7 +360,7 @@ $prefLabel, $altLabel, $title and $name variables.
 			})();
 	  	</script>
 		<script type="text/javascript" src="/static/public/header/js/funcs_header.js"></script>
-		<link rel="stylesheet" href="/static/public/header/elda_header.css" media="screen" type="text/css"/>
+		<link rel="stylesheet" href="/static/public/elda/elda.css" media="screen" type="text/css"/>
 	</head>
 	<body>
 	<div id="header">
@@ -586,7 +586,7 @@ $prefLabel, $altLabel, $title and $name variables.
 				})();
 		  	</script>
 			<script type="text/javascript" src="/static/public/header/js/funcs_header.js"></script>
-			<link rel="stylesheet" href="/static/public/header/elda_header.css" media="screen" type="text/css"/>
+			<link rel="stylesheet" href="/static/public/elda/elda.css" media="screen" type="text/css"/>
 		</head>
 		<body>
 			<footer id="mainFooter" class="site-footer">
