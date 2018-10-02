@@ -1915,6 +1915,12 @@ $prefLabel, $altLabel, $title and $name variables.
         </xsl:call-template>
     </xsl:variable>
     <section class="sort">
+	  	<script type="text/javascript">
+	  		var url = window.location.href;
+	  		if(url.includes("/iaest/")){
+	  			$(".sort").css('display', 'none');
+	  		}
+	  	</script>
         <h1>Ordenar por</h1>
         <xsl:call-template name="createInfo">
             <xsl:with-param name="text">
